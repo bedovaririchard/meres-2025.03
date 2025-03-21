@@ -1,0 +1,287 @@
+[2022-04-13 15:06:15] production.ERROR: Class "Laravel\Sanctum\Sanctum" not found {"exception":"[object] (Error(code: 0): Class \"Laravel\\Sanctum\\Sanctum\" not found at D:\\vizsga\\gipsz_jakab_backend\\config\\sanctum.php:21)
+[stacktrace]
+#0 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(72): require()
+#1 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 D:\\vizsga\\gipsz_jakab_backend\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-04-13 13:06:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:07:15] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:07:43] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:07:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:08:37] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:08:43] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:08:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:09:36] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:09:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:10:08] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:10:42] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:10:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:10:55] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:11:40] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:11:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:12:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:13:24] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:13:49] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:13:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:14:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:15:51] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:15:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:16:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:17:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:18:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:19:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:20:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:21:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:22:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:23:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:24:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:24:57] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:25:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:26:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:27:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:28:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:29:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:30:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:31:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:32:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:33:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:34:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:35:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:36:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:37:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:37:55] local.ERROR: Add [kategoria] to fillable property to allow mass assignment on [App\Models\Ingatlan]. {"exception":"[object] (Illuminate\\Database\\Eloquent\\MassAssignmentException(code: 0): Add [kategoria] to fillable property to allow mass assignment on [App\\Models\\Ingatlan]. at D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php:433)
+[stacktrace]
+#0 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(508): Illuminate\\Database\\Eloquent\\Model->fill(Array)
+#1 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(1392): Illuminate\\Database\\Eloquent\\Model->newInstance(Array)
+#2 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(945): Illuminate\\Database\\Eloquent\\Builder->newModelInstance(Array)
+#3 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->create(Array)
+#4 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(2133): Illuminate\\Database\\Eloquent\\Model->forwardCallTo(Object(Illuminate\\Database\\Eloquent\\Builder), 'create', Array)
+#5 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(2145): Illuminate\\Database\\Eloquent\\Model->__call('create', Array)
+#6 D:\\vizsga\\gipsz_jakab_backend\\app\\Http\\Controllers\\IngatlanController.php(40): Illuminate\\Database\\Eloquent\\Model::__callStatic('create', Array)
+#7 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\IngatlanController->store(Object(Illuminate\\Http\\Request))
+#8 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('store', Array)
+#9 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(261): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\IngatlanController), 'store')
+#10 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(204): Illuminate\\Routing\\Route->runController()
+#11 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(725): Illuminate\\Routing\\Route->run()
+#12 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#13 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(126): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(102): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#17 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(54): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Illuminate\\Http\\Request), Object(Closure), 'api', Object(Closure))
+#18 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#19 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(726): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#21 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(703): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#22 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(667): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#23 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(656): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#24 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#25 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#26 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 D:\\vizsga\\gipsz_jakab_backend\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 D:\\vizsga\\gipsz_jakab_backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\esources\\server.php(16): require_once('D:\\\\vizsga\\\\gipsz...')
+#45 {main}
+"} 
+[2022-04-13 13:38:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:39:12] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:39:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:40:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:41:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:42:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:43:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:44:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:45:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:46:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:47:52] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2022-04-13 13:48:53] local.ERROR: Trait "Laravel\Sanctum\HasApiTokens" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Laravel\\Sanctum\\HasApiTokens\" not found at D:\\vizsga\\gipsz_jakab_backend\\app\\Models\\User.php:11)
+[stacktrace]
+#0 {main}
+"} 
